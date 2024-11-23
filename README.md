@@ -171,6 +171,7 @@ evaluation = {
    'fuentes_normativas': compliance_analysis.get('sources', [])
 }
 
+```
 
 ## 📊 Resultados del Sistema
 
@@ -178,4 +179,3 @@ evaluation = {
   <img src="/assets/images/Output1.jpg" alt="Resultado Evaluación" width="400">
   <img src="/assets/images/Output2.jpg" alt="Análisis Detallado" width="400">
 </div>
-```
