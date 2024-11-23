@@ -175,7 +175,7 @@ evaluation = {
 ## 📊 Resultados del Sistema
 
 <div align="center">
-  <img src="./assets/images/Output1.jpg" alt="Resultado Evaluación" width="400">
-  <img src="./assets/images/Output2.jpg" alt="Análisis Detallado" width="400">
+  <img src="/assets/images/Output1.jpg" alt="Resultado Evaluación" width="400">
+  <img src="/assets/images/Output2.jpg" alt="Análisis Detallado" width="400">
 </div>
 ```
